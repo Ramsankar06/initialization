@@ -1,0 +1,6 @@
+packages:
+  - "frontend1"
+  - "backend"
+allowBuilds:
+  esbuild: true
+  msw: true

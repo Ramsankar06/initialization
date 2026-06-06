@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "pnpm --filter frontend1+ lint && pnpm --filter backend lint",
+    "lint": "pnpm --filter frontend1 lint && pnpm --filter backend lint",
     "format": "prettier . --write"
   },
   "keywords": [],
